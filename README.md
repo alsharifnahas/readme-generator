@@ -31,14 +31,14 @@ To use this application, you will have to use the commad "git clone" followed by
 
 **NOTE**: The following images and video are a demo on how the application works.
 
-\*[images]:
+images:
 
 ![README Generator Preview 1](assets/images/screen-shot-1.PNG)
 ![README Generator Preview 2](assets/images/screen-shot-2.PNG)
 
-\*[video]:
+video:
 
-![README Generator Demo Video](https://drive.google.com/file/d/1fVxf1o_sfpcEDvTA90GTtwiTvAISCBUy/view)
+(https://drive.google.com/file/d/1fVxf1o_sfpcEDvTA90GTtwiTvAISCBUy/view)
 
 ## Lincense
 
